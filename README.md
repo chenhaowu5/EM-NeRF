@@ -1,6 +1,5 @@
 # EM-NeRF
-Here we collect insightful work on the application of NeRF and ray-tracing-based method in the fields of electromagnetic wave propagation, wireless channel modeling, radio frequency and beyond. 
-
+Here we collect insightful work on the application of the NeRF model and ray-tracing-based method in the fields of electromagnetic wave propagation, wireless channel modeling, radio frequency and beyond. 
 
 ## Year 2024 
 
@@ -13,8 +12,6 @@ Here we collect insightful work on the application of NeRF and ray-tracing-based
 
 * **Physics-informed Generalizable Wireless Channel Modeling with Segmentation and Deep Learning: Fundamentals, Methodologies, and Challenges**, Ethan Zhu, Haijian Sun, Mingyue Ji, Submitted on 02 Jan 2024
   [[Paper](https://arxiv.org/abs/2401.01288)]
-
-
 
 ## Year 2023 
 
