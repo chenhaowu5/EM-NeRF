@@ -7,6 +7,7 @@ Date format: DD/MM/YYYY
 * **DART: Implicit Doppler Tomography for Radar Novel View Synthesis**, Tianshu Huang, John Miller, et al.  
 Submitted on 06/03/2024 
   [[Paper](https://arxiv.org/abs/2403.03896)]
+  [[code](https://github.com/WiseLabCMU/dart)]
 
 
 * **A Deep Learning Framework for Wireless Radiation Field Reconstruction and Channel Prediction**, Haofan Lu, Christopher Vattheuer, et al.  
@@ -24,18 +25,20 @@ Submitted on 02/01/2024
 * **WiSegRT: Dataset for Site-Specific Indoor Radio Propagation Modeling with 3D Segmentation and Differentiable Ray-Tracing**, Lihao Zhang, Haijian Sun, et al.  
 Submitted on 18/12/2023
   [[Paper](https://arxiv.org/abs/2312.11245)]
+  [[code](https://github.com/SunLab-UGA/WiSegRT)]
 
 * **Learning Radio Environments by Differentiable Ray Tracing**, Jakob Hoydis, Fayçal Aït Aoudia, et al.  
 Submitted on 30/11/2023
-  [[Paper](https://arxiv.org/abs/2312.11245)]
+  [[Paper](https://arxiv.org/abs/2311.18558)]
 
 * **Environment-driven mmWave Beamforming for Multi-user Immersive Applications**, Ahmad Kamari, Nan Wu, et al.  
 Published on 06/10/2023 
   [[Paper](https://dl.acm.org/doi/10.1145/3615452.3617945)]
 
 * **NeRF2: Neural Radio-Frequency Radiance Fields**, Xiaopeng Zhao, Zhenlin An, et al.  
-Published on 02/10/2023 
-  [[Paper](https://dl.acm.org/doi/10.1145/3570361.3592527)]
+Submitted on 05/10/2023 
+  [[Paper](https://arxiv.org/abs/2305.06118)]
+  [[code](https://github.com/XPengZhao/NeRF2)]
 
 * **Tuning of Ray-Based Channel Model for 5G Indoor Industrial Scenarios**, Gurjot Singh Bhatia, Yoann Corre, et al.  
 Submitted on 12/09/2023
@@ -106,3 +109,4 @@ Published on 24/05/2021
 * **Radiounet: Fast Radio Map Estimation with Convolutional Neural Networks**, Ron Levie, Çağkan Yapar, et al.  
 Published on 12/02/2021
   [[Paper](https://ieeexplore.ieee.org/document/9354041)]
+  
