@@ -77,7 +77,7 @@ Published on 18/08/2022
 Published on 11/08/2022
   [[Paper](https://ieeexplore.ieee.org/document/9854866)]
 
-* **Em Deepray: An Expedient, Generalizable, and Realistic Data-driven Indoor Propagation Model**, Stefanos Bakirtzis; Jiming Chen, et al.  
+* **Em Deepray: An Expedient, Generalizable, and Realistic Data-driven Indoor Propagation Model**, Stefanos Bakirtzis, Jiming Chen, et al.  
 Published on 09/05/2022
   [[Paper](https://ieeexplore.ieee.org/document/9771088)]
 
@@ -98,7 +98,7 @@ Submitted on 24/11/2021
   [[Paper](https://arxiv.org/abs/2111.12228)]
 
 
-* **FusionNet: Enhanced Beam Prediction for mmWave Communications Using Sub-6 GHz Channel and a Few Pilots**, Feifei Gao; Bo Lin, et al.  
+* **FusionNet: Enhanced Beam Prediction for mmWave Communications Using Sub-6 GHz Channel and a Few Pilots**, Feifei Gao, Bo Lin, et al.  
 Published on 03/09/2021
   [[Paper](https://ieeexplore.ieee.org/document/9529181)]
 
@@ -109,4 +109,6 @@ Published on 24/05/2021
 * **Radiounet: Fast Radio Map Estimation with Convolutional Neural Networks**, Ron Levie, Çağkan Yapar, et al.  
 Published on 12/02/2021
   [[Paper](https://ieeexplore.ieee.org/document/9354041)]
-  
+
+
+
