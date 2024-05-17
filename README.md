@@ -1,8 +1,9 @@
 # EM-NeRF
-Here we collect insightful work on the application of NeRF and ray-tracing-based method in the fields of electromagnetic wave propagation, wireless channel modeling, radio frequency and beyond.  
+Here we collect insightful work on the application of NeRF and ray-tracing-based method in the fields of electromagnetic wave propagation, wireless channel modeling, radio frequency and beyond. 
+  
 Date format: DD/MM/YYYY
 
-## Year 2024 
+## 2024 
 
 * **DART: Implicit Doppler Tomography for Radar Novel View Synthesis**, Tianshu Huang, John Miller, et al.  
 Submitted on 06/03/2024 
@@ -20,7 +21,7 @@ Submitted on 02/01/2024
 
 
 
-## Year 2023 
+## 2023 
 
 * **WiSegRT: Dataset for Site-Specific Indoor Radio Propagation Modeling with 3D Segmentation and Differentiable Ray-Tracing**, Lihao Zhang, Haijian Sun, et al.  
 Submitted on 18/12/2023
@@ -60,7 +61,7 @@ Submitted on 20/03/2023
 Published in 2023
   [[Paper](https://www.semanticscholar.org/paper/WiNeRT%3A-Towards-Neural-Ray-Tracing-for-Wireless-and-Orekondy-Pratik/e113d13819cf35029c11d171ff039ab01e61226c)]
 
-## Year 2022
+## 2022
 * **Integrating Scientific Knowledge with Machine Learning for Engineering and Environmental Systems**, Jared Willard, Xiaowei Jia, et al.  
 Published on 21/11/2022
   [[Paper](https://doi.org/10.1145/3514228)]
@@ -87,7 +88,7 @@ Published on 05/01/2022
 
 
 
-## Year 2021
+## 2021
 
 * **Improving GAN Equilibrium by Raising Spatial Awareness**, Jianyuan Wang, Ceyuan Yang, et al.  
 Submitted on 01/12/2021
