@@ -61,7 +61,7 @@ Submitted on 20/03/2023
 Published in 2023
   [[Paper](https://www.semanticscholar.org/paper/WiNeRT%3A-Towards-Neural-Ray-Tracing-for-Wireless-and-Orekondy-Pratik/e113d13819cf35029c11d171ff039ab01e61226c)]
 
-## 2022
+## 2022 and before
 * **Integrating Scientific Knowledge with Machine Learning for Engineering and Environmental Systems**, Jared Willard, Xiaowei Jia, et al.  
 Published on 21/11/2022
   [[Paper](https://doi.org/10.1145/3514228)]
@@ -86,30 +86,8 @@ Published on 09/05/2022
 Published on 05/01/2022
   [[Paper](https://ieeexplore.ieee.org/document/9670666)]
 
-
-
-## 2021
-
-* **Improving GAN Equilibrium by Raising Spatial Awareness**, Jianyuan Wang, Ceyuan Yang, et al.  
-Submitted on 01/12/2021
-  [[Paper](https://arxiv.org/abs/2112.00718)]
-
-* **Artificial Intelligence Enabled Radio Propagation for Communications—Part II: Scenario Identification and Channel Modeling**, Chen Huang, Ruisi He, et al.  
-Submitted on 24/11/2021
-  [[Paper](https://arxiv.org/abs/2111.12228)]
-
-
-* **FusionNet: Enhanced Beam Prediction for mmWave Communications Using Sub-6 GHz Channel and a Few Pilots**, Feifei Gao, Bo Lin, et al.  
-Published on 03/09/2021
-  [[Paper](https://ieeexplore.ieee.org/document/9529181)]
-
 * **Physics-Informed Machine Learning**, George Em Karniadakis, Ioannis G. Kevrekidis, et al.  
 Published on 24/05/2021
   [[Paper](https://www.nature.com/articles/s42254-021-00314-5)]
-
-* **Radiounet: Fast Radio Map Estimation with Convolutional Neural Networks**, Ron Levie, Çağkan Yapar, et al.  
-Published on 12/02/2021
-  [[Paper](https://ieeexplore.ieee.org/document/9354041)]
-
 
 
