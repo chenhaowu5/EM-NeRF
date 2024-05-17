@@ -1,5 +1,5 @@
 # EM-NeRF
-Here we collect insightful work on the application of NeRF and ray-tracing-based method in the fields of electromagnetic wave propagation, wireless channel modeling, radio frequency and beyond. 
+Here we collect insightful work on the application of NeRF and ray-tracing-based methodologies in the fields of electromagnetic wave propagation, wireless channel modeling, radio frequency and beyond. 
   
 Date format: DD/MM/YYYY
 
