@@ -74,10 +74,6 @@ Published on 27/08/2022
 Published on 18/08/2022
   [[Paper](https://ieeexplore.ieee.org/document/9923616)]
 
-* **Digital Twin of Wireless Systems: Overview, Taxonomy, Challenges, and Opportunities**, Latif U. Khan, Zhu Han, et al.  
-Published on 11/08/2022
-  [[Paper](https://ieeexplore.ieee.org/document/9854866)]
-
 * **Em Deepray: An Expedient, Generalizable, and Realistic Data-driven Indoor Propagation Model**, Stefanos Bakirtzis, Jiming Chen, et al.  
 Published on 09/05/2022
   [[Paper](https://ieeexplore.ieee.org/document/9771088)]
