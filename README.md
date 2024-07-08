@@ -5,11 +5,18 @@ Date format: DD/MM/YYYY
 
 ## 2024 
 
+* **Probabilistic and Differentiable Wireless Simulation with Geometric Transformers**, Thomas Hehn, Markus Peschl, et al.  
+Submitted on 21/06/2024
+  [[Paper](https://arxiv.org/abs/2406.14995)]
+
+* **Embracing Radiance Field Rendering in 6G: Over-the-Air Training and Inference with 3D Contents**, Guanlin Wu, Zhonghao Lyu, et al.  
+Submitted on 20/05/2024
+  [[Paper](https://arxiv.org/abs/2405.12155)]
+
 * **DART: Implicit Doppler Tomography for Radar Novel View Synthesis**, Tianshu Huang, John Miller, et al.  
 Submitted on 06/03/2024 
   [[Paper](https://arxiv.org/abs/2403.03896)]
   [[code](https://github.com/WiseLabCMU/dart)]
-
 
 * **A Deep Learning Framework for Wireless Radiation Field Reconstruction and Channel Prediction**, Haofan Lu, Christopher Vattheuer, et al.  
 Submitted on 05/03/2024 
@@ -18,8 +25,6 @@ Submitted on 05/03/2024
 * **Physics-informed Generalizable Wireless Channel Modeling with Segmentation and Deep Learning: Fundamentals, Methodologies, and Challenges**, Ethan Zhu, Haijian Sun, et al.  
 Submitted on 02/01/2024
   [[Paper](https://arxiv.org/abs/2401.01288)]
-
-
 
 ## 2023 
 
@@ -31,6 +36,10 @@ Submitted on 18/12/2023
 * **Learning Radio Environments by Differentiable Ray Tracing**, Jakob Hoydis, Fayçal Aït Aoudia, et al.  
 Submitted on 30/11/2023
   [[Paper](https://arxiv.org/abs/2311.18558)]
+
+* **Differentiable Radio Frequency Ray Tracing for Millimeter-Wave Sensing**, Xingyu Chen, Xinyu Zhang, et al.  
+Submitted on 22/11/2023
+  [[Paper](https://arxiv.org/abs/2311.13182)]
 
 * **Environment-driven mmWave Beamforming for Multi-user Immersive Applications**, Ahmad Kamari, Nan Wu, et al.  
 Published on 06/10/2023 
@@ -85,5 +94,3 @@ Published on 05/01/2022
 * **Physics-Informed Machine Learning**, George Em Karniadakis, Ioannis G. Kevrekidis, et al.  
 Published on 24/05/2021
   [[Paper](https://www.nature.com/articles/s42254-021-00314-5)]
-
-
