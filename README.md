@@ -5,6 +5,14 @@ Date format: DD/MM/YYYY
 
 ## 2024 
 
+* **Learnable Wireless Digital Twins: Reconstructing Electromagnetic Field with Neural Representations**, Shuaifeng Jiang, Qi Qu, et al.  
+Submitted on 04/09/2024
+  [[Paper](https://dl.acm.org/doi/pdf/10.1145/3678572)]
+
+* **Crowdsourced Geospatial Intelligence: Constructing 3D Urban Maps with Satellitic Radiance Fields**, Xiaopeng Zhao, Shen Wang, et al.  
+Published on 09/2024
+  [[Paper](https://dl.acm.org/doi/pdf/10.1145/3678572)]
+
 * **Probabilistic and Differentiable Wireless Simulation with Geometric Transformers**, Thomas Hehn, Markus Peschl, et al.  
 Submitted on 21/06/2024
   [[Paper](https://arxiv.org/abs/2406.14995)]
