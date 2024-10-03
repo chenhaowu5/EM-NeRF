@@ -13,6 +13,10 @@ Submitted on 04/09/2024
 Published on 09/2024
   [[Paper](https://dl.acm.org/doi/pdf/10.1145/3678572)]
 
+* **SpecNeRF: Neural Radiance Field Driven Wireless Coverage Mapping for 5G Networks**, Amartya Basu, Ayon Chakraborty  
+Published on 01/08/2024
+  [[Paper](https://dl.acm.org/doi/10.1145/3641512.3690037)]
+
 * **Probabilistic and Differentiable Wireless Simulation with Geometric Transformers**, Thomas Hehn, Markus Peschl, et al.  
 Submitted on 21/06/2024
   [[Paper](https://arxiv.org/abs/2406.14995)]
