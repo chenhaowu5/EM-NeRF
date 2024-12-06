@@ -5,6 +5,10 @@ Date format: DD/MM/YYYY
 
 ## 2024 
 
+* **Radio Frequency Ray Tracing with Neural Object Representation**, Xingyu Chen, Zihao Feng, et al.  
+Submitted on 16/11/2024
+  [[Paper](https://arxiv.org/abs/2411.18635)]
+
 * **Learnable Wireless Digital Twins: Reconstructing Electromagnetic Field with Neural Representations**, Shuaifeng Jiang, Qi Qu, et al.  
 Submitted on 04/09/2024
   [[Paper](https://arxiv.org/abs/2409.02564)]
@@ -24,6 +28,10 @@ Submitted on 21/06/2024
 * **Embracing Radiance Field Rendering in 6G: Over-the-Air Training and Inference with 3D Contents**, Guanlin Wu, Zhonghao Lyu, et al.  
 Submitted on 20/05/2024
   [[Paper](https://arxiv.org/abs/2405.12155)]
+
+* **R-NeRF: Neural Radiance Fields for Modeling RIS-enabled Wireless Environments**, Huiying Yang, Zihan Jin, et al.  
+Submitted on 19/05/2024
+  [[Paper](https://arxiv.org/abs/2405.11541)]
 
 * **DART: Implicit Doppler Tomography for Radar Novel View Synthesis**, Tianshu Huang, John Miller, et al.  
 Submitted on 06/03/2024 
