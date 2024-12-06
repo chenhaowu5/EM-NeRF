@@ -32,6 +32,7 @@ Submitted on 20/05/2024
 * **R-NeRF: Neural Radiance Fields for Modeling RIS-enabled Wireless Environments**, Huiying Yang, Zihan Jin, et al.  
 Submitted on 19/05/2024
   [[Paper](https://arxiv.org/abs/2405.11541)]
+  [[code](https://github.com/Meta-EM-star/R-NeRF)]
 
 * **DART: Implicit Doppler Tomography for Radar Novel View Synthesis**, Tianshu Huang, John Miller, et al.  
 Submitted on 06/03/2024 
