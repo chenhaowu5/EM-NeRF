@@ -5,9 +5,21 @@ Date format: DD/MM/YYYY
 
 ## 2024 
 
+* **RF-3DGS: Wireless Channel Modeling with Radio Radiance Field and 3D Gaussian Splatting**, Lihao Zhang, Haijian Sun, et al.  
+Submitted on 29/11/2024
+  [[Paper](https://arxiv.org/abs/2411.19420)]
+
 * **Radio Frequency Ray Tracing with Neural Object Representation**, Xingyu Chen, Zihao Feng, et al.  
 Submitted on 16/11/2024
   [[Paper](https://arxiv.org/abs/2411.18635)]
+
+* **SANDWICH: Towards an Offline, Differentiable, Fully-Trainable Wireless Neural Ray-Tracing Surrogate**, Yifei Jin, Ali Maatouk, et al.  
+Submitted on 13/11/2024
+  [[Paper](https://arxiv.org/abs/2411.08767)]
+
+* **RFCanvas: Modeling RF Channel by Fusing Visual Priors and Few-shot RF Measurements**, Xingyu Chen, Zihao Feng, et al.  
+Published on 04/11/2024
+  [[Paper](https://dl.acm.org/doi/10.1145/3666025.3699351)]
 
 * **Learnable Wireless Digital Twins: Reconstructing Electromagnetic Field with Neural Representations**, Shuaifeng Jiang, Qi Qu, et al.  
 Submitted on 04/09/2024
