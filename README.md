@@ -102,7 +102,7 @@ Published on 02/08/2023
   [[Paper](https://dl.acm.org/doi/10.1145/3570361.3613291)]
 
 * **Codebook Configuration for RIS-aided Systems via Implicit Neural Representations**, Huiying Yang, Rujing Xiong, et al.  
-Published on 01/06/2023
+Submitted on 01/06/2023
   [[Paper](https://arxiv.org/abs/2306.00544)]
   [[Code](https://github.com/Meta-EM-star/Codebook_Inr)]
 
