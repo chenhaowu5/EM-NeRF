@@ -101,6 +101,11 @@ Submitted on 12/09/2023
 Published on 02/08/2023
   [[Paper](https://dl.acm.org/doi/10.1145/3570361.3613291)]
 
+* **Codebook Configuration for RIS-aided Systems via Implicit Neural Representations**, Huiying Yang, Rujing Xiong, et al.  
+Published on 01/06/2023
+  [[Paper](https://arxiv.org/abs/2306.00544)]
+  [[Code](https://github.com/Meta-EM-star/Codebook_Inr)]
+
 * **WiThRay: A Versatile Ray-Tracing Simulator for Smart Wireless Environments**, Hyuckjin Choi, Jaehoon Chung, et al.  
 Submitted on 22/04/2023 
   [[Paper](https://arxiv.org/abs/2304.11385)]
