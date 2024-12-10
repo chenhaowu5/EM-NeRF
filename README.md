@@ -5,6 +5,10 @@ Date format: DD/MM/YYYY
 
 ## 2024 
 
+* **WRF-GS: Wireless Radiation Field Reconstruction with 3D Gaussian Splatting**, Chaozheng Wen, Jingwen Tong, et al.  
+Submitted on 06/12/2024
+  [[Paper](https://arxiv.org/abs/2412.04832)]
+
 * **RF-3DGS: Wireless Channel Modeling with Radio Radiance Field and 3D Gaussian Splatting**, Lihao Zhang, Haijian Sun, et al.  
 Submitted on 29/11/2024
   [[Paper](https://arxiv.org/abs/2411.19420)]
