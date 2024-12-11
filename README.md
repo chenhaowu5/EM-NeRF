@@ -62,9 +62,9 @@ Submitted on 14/04/2024
   [[Paper](https://arxiv.org/abs/2404.09140)]
   [[Code](https://github.com/mobicom24/RF-Diffusion)]
 
-* **A Deep Learning Framework for Wireless Radiation Field Reconstruction and Channel Prediction**, Haofan Lu, Christopher Vattheuer, et al.  
+* **NeWRF: A Deep Learning Framework for Wireless Radiation Field Reconstruction and Channel Prediction**, Haofan Lu, Christopher Vattheuer, et al.  
 Submitted on 05/03/2024 
-  [[Paper](https://arxiv.org/abs/2403.03241)]
+  [[Paper](https://arxiv.org/abs/2403.03241v2)]
 
 * **Physics-informed Generalizable Wireless Channel Modeling with Segmentation and Deep Learning: Fundamentals, Methodologies, and Challenges**, Ethan Zhu, Haijian Sun, et al.  
 Submitted on 02/01/2024
