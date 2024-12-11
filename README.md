@@ -65,6 +65,7 @@ Submitted on 14/04/2024
 * **NeWRF: A Deep Learning Framework for Wireless Radiation Field Reconstruction and Channel Prediction**, Haofan Lu, Christopher Vattheuer, et al.  
 Submitted on 05/03/2024 
   [[Paper](https://arxiv.org/abs/2403.03241v2)]
+  [[Paper](https://github.com/LuHaofan/NeWRF)]
 
 * **Physics-informed Generalizable Wireless Channel Modeling with Segmentation and Deep Learning: Fundamentals, Methodologies, and Challenges**, Ethan Zhu, Haijian Sun, et al.  
 Submitted on 02/01/2024
