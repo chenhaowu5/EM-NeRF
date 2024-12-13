@@ -92,7 +92,7 @@ Published on 06/10/2023
 
 * **NeRF2: Neural Radio-Frequency Radiance Fields**, Xiaopeng Zhao, Zhenlin An, et al.  
 Submitted on 05/10/2023 
-  [[Paper](https://arxiv.org/abs/2305.06118)]
+  [[Paper](https://dl.acm.org/doi/10.1145/3570361.3592527)]
   [[code](https://github.com/XPengZhao/NeRF2)]
 
 * **Tuning of Ray-Based Channel Model for 5G Indoor Industrial Scenarios**, Gurjot Singh Bhatia, Yoann Corre, et al.  
