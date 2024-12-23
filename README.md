@@ -5,6 +5,10 @@ Date format: DD/MM/YYYY
 
 ## 2024 
 
+* **Active Sampling and Gaussian Reconstruction for Radio Frequency Radiance Field**, Chi-Shiang Gau, Xingyu Chen, et al.  
+Submitted on 11/12/2024
+  [[Paper](https://arxiv.org/abs/2412.08003)]
+
 * **WRF-GS: Wireless Radiation Field Reconstruction with 3D Gaussian Splatting**, Chaozheng Wen, Jingwen Tong, et al.  
 Submitted on 06/12/2024
   [[Paper](https://arxiv.org/abs/2412.04832)]
