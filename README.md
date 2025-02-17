@@ -3,6 +3,15 @@ Here we collect insightful work on the application of NeRF and ray-tracing-based
   
 Date format: DD/MM/YYYY
 
+## 2025
+* **Scalable 3D Gaussian Splatting-Based RF Signal Spatial Propagation Modeling**, Kang Yang, Gaofeng Dong, et al.  
+Submitted on 03/02/2025
+  [[Paper](https://arxiv.org/abs/2502.01826)]
+
+* **RayLoc: Wireless Indoor Localization via Fully Differentiable Ray-tracing**, Xueqiang Han, Tianyue Zheng, et al.  
+Submitted on 21/01/2025
+  [[Paper](https://arxiv.org/abs/2501.17881)]
+
 ## 2024 
 
 * **Active Sampling and Gaussian Reconstruction for Radio Frequency Radiance Field**, Chi-Shiang Gau, Xingyu Chen, et al.  
