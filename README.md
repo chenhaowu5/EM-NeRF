@@ -1,9 +1,46 @@
 # EM-NeRF
-Here we collect insightful work on the application of NeRF and ray-tracing-based methodologies in the fields of electromagnetic wave propagation, wireless channel modeling, radio frequency and beyond. 
-  
+This repository collects influential research that applies Neural Radiance Fields (NeRF), differentiable ray tracing, and emerging Gaussian Splatting techniques to electromagnetic wave propagation, wireless channel modeling, radio-frequency mapping, and related applications. It traces the field’s evolution—from early NeRF-driven frameworks like NeRF2, through recent adaptations of 3D Gaussian Splatting for RF tasks. These works showcase a transition toward explicit, efficient, and scalable methods for reconstructing and simulating complex wireless environments.
+
 Date format: DD/MM/YYYY
 
 ## 2025
+
+* **Commercial RFIDs as Reconfigurable Intelligent Surfaces**, Jingyu Tong, Xiaopeng Zhao, et al.  
+Published on 01/07/2025
+  [[Paper](https://ieeexplore.ieee.org/abstract/document/11044470)]
+
+* **GeNeRT: A Physics-Informed Approach to Intelligent Wireless Channel Modeling via Generalizable Neural Ray Tracing**, Kejia Bian, Meixia Tao, et al.  
+Submitted on 23/06/2025
+  [[Paper](https://arxiv.org/abs/2506.18295)]
+
+* **Rasterizing Wireless Radiance Field via Deformable 2D Gaussian Splatting**, Mufan Liu, Cixiao Zhang, et al.  
+Submitted on 15/06/2025
+  [[Paper](https://arxiv.org/abs/2506.12787)]
+
+* **Can NeRFs See without Cameras?**, Chaitanya Amballa, Sattwik Basu, et al.  
+Submitted on 28/05/2025
+  [[Paper](https://arxiv.org/abs/2505.22441)]
+
+* **NEAR: Neural Electromagnetic Array Response**, Yinyan Bu, Jiajie Yu, et al.  
+Submitted on 01/05/2025
+  [[Paper](https://openreview.net/forum?id=yXcY4wKAG7)]
+
+* **FERMI: Flexible Radio Mapping with a Hybrid Propagation Model and Scalable Autonomous Data Collection**, Yiming Luo, Yunfei Wang, et al.  
+Submitted on 21/04/2025
+  [[Paper](https://arxiv.org/abs/2504.14862)]
+
+* **3D Student Splatting and Scooping**, Jialin Zhu, Jiangbei Yue, et al.  
+Submitted on 13/03/2025
+  [[Paper](https://arxiv.org/abs/2503.10148)]
+
+* **Neural Reflectance Fields for Radio-Frequency Ray Tracing**, Haifeng Jia, Xinyi Chen, et al.  
+Published on 11/03/2025
+  [[Paper](https://ieeexplore.ieee.org/document/10901842)]
+
+* **RadSplatter: Extending 3D Gaussian Splatting to Radio Frequencies for Wireless Radiomap Extrapolation**, Yiheng Wang, Ye Xue, et al.  
+Submitted on 18/02/2025
+  [[Paper](https://arxiv.org/abs/2502.12686)]
+
 * **Scalable 3D Gaussian Splatting-Based RF Signal Spatial Propagation Modeling**, Kang Yang, Gaofeng Dong, et al.  
 Submitted on 03/02/2025
   [[Paper](https://arxiv.org/abs/2502.01826)]
@@ -51,6 +88,10 @@ Published on 09/2024
 * **SpecNeRF: Neural Radiance Field Driven Wireless Coverage Mapping for 5G Networks**, Amartya Basu, Ayon Chakraborty  
 Published on 01/08/2024
   [[Paper](https://dl.acm.org/doi/10.1145/3641512.3690037)]
+
+* **Physics-Informed Neural Networks for Path Loss Estimation by Solving Electromagnetic Integral Equations**, Fenyu Jiang, Tong Li, et al.  
+Published on 23/07/2024
+  [[Paper](https://ieeexplore.ieee.org/document/10608081)]
 
 * **Probabilistic and Differentiable Wireless Simulation with Geometric Transformers**, Thomas Hehn, Markus Peschl, et al.  
 Submitted on 21/06/2024
