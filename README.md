@@ -5,6 +5,10 @@ Date format: DD/MM/YYYY
 
 ## 2025
 
+* **Frequency-Aware Neural Radio-Frequency Radiance Fields**, Xiaopeng Zhao, Zhenlin An, et al.  
+Published on 03/07/2025
+  [[Paper](https://ieeexplore.ieee.org/document/11068936)]
+
 * **Commercial RFIDs as Reconfigurable Intelligent Surfaces**, Jingyu Tong, Xiaopeng Zhao, et al.  
 Published on 01/07/2025
   [[Paper](https://ieeexplore.ieee.org/abstract/document/11044470)]
