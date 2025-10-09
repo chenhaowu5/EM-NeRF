@@ -24,6 +24,7 @@ Submitted on 15/09/2025
 * **RF-PGS: Fully-structured Spatial Wireless Channel Representation with Planar Gaussian Splatting**, Lihao Zhang, Zongtan Li, et al.  
 Submitted on 23/08/2025
   [[Paper](https://arxiv.org/abs/2508.16849)]
+  [[Code](https://github.com/SunLab-UGA/RF-PGS)]
 
 * **Frequency-Aware Neural Radio-Frequency Radiance Fields**, Xiaopeng Zhao, Zhenlin An, et al.  
 Published on 03/07/2025
