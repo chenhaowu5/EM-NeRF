@@ -13,10 +13,6 @@ Published on 29/09/2025
 Submitted on 23/09/2025
   [[Paper](https://arxiv.org/abs/2509.18735)]
 
-* **Generative AI Meets Wireless Sensing: Towards Wireless Foundation Model**, Zheng Yang, Guoxuan Chi, et al.  
-Submitted on 18/09/2025
-  [[Paper](https://arxiv.org/abs/2509.15258)]
-
 * **Radio Propagation Modelling: To Differentiate or To Deep Learn, That Is The Question**, Stefanos Bakirtzis, Paul Almasan, et al.  
 Submitted on 15/09/2025
   [[Paper](https://arxiv.org/abs/2509.19337)]
