@@ -5,6 +5,26 @@ Date format: DD/MM/YYYY
 
 ## 2025
 
+* **Scene Structure Based Neural Radio-Frequency Radiance Fields for Channel Knowledge Map Construction**, Kaicheng Liu, Wenjun Jiang, et al.  
+Published on 29/09/2025
+  [[Paper](https://ieeexplore.ieee.org/abstract/document/11184507)]
+
+* **6G Twin: Hybrid Gaussian Radio Fields for Channel Estimation and Non-Linear Precoder Design for Radio Access Networks**, Muhammad Ahmed Mohsin, Muhammad Umer, et al.  
+Submitted on 23/09/2025
+  [[Paper](https://arxiv.org/abs/2509.18735)]
+
+* **Generative AI Meets Wireless Sensing: Towards Wireless Foundation Model**, Zheng Yang, Guoxuan Chi, et al.  
+Submitted on 18/09/2025
+  [[Paper](https://arxiv.org/abs/2509.15258)]
+
+* **Radio Propagation Modelling: To Differentiate or To Deep Learn, That Is The Question**, Stefanos Bakirtzis, Paul Almasan, et al.  
+Submitted on 15/09/2025
+  [[Paper](https://arxiv.org/abs/2509.19337)]
+
+* **RF-PGS: Fully-structured Spatial Wireless Channel Representation with Planar Gaussian Splatting**, Lihao Zhang, Zongtan Li, et al.  
+Submitted on 23/08/2025
+  [[Paper](https://arxiv.org/abs/2508.16849)]
+
 * **Frequency-Aware Neural Radio-Frequency Radiance Fields**, Xiaopeng Zhao, Zhenlin An, et al.  
 Published on 03/07/2025
   [[Paper](https://ieeexplore.ieee.org/document/11068936)]
