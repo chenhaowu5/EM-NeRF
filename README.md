@@ -5,6 +5,31 @@ Date format: DD/MM/YYYY
 
 ## 2025
 
+* **Radiance-Field Reinforced Pretraining: Scaling Localization Models with Unlabeled Wireless Signals**, Guosheng Wang, Shen Wang, et al.  
+Submitted on 08/12/2025
+  [[Paper](https://arxiv.org/abs/2512.07309)]
+
+* **Environment-Aware Channel Inference via Cross-Modal Flow: From Multimodal Sensing to Wireless Channels**, Guangming Liang, Mingjie Yang, et al.  
+Submitted on 04/12/2025
+  [[Paper](https://arxiv.org/abs/2512.04966)]
+
+* **Bridging Data Gaps: Enhancing Wireless Localization with Physics-Informed Data Augmentation**, Md Mumtahin Habib Ullah Mazumder, Frost Mitchell, et al.  
+Published on 25/11/2025
+  [[Paper](https://dl.acm.org/doi/abs/10.1145/3768995)]
+
+
+* **One Walk is All You Need: Data-Efficient 3D RF Scene Reconstruction with Human Movements**, Yiheng Bian, Zechen Li, et al.  
+Submitted on 21/11/2025
+  [[Paper](https://arxiv.org/abs/2511.16966)]
+
+* **A Geometry Map-Based Site-Specific Propagation Channel Model for Urban Scenarios**, Junzhe Song, Ruisi He, et al.  
+Submitted on 14/11/2025
+  [[Paper](https://arxiv.org/abs/2511.11386)]
+
+* **Diffusion^2: Turning 3D Environments into Radio Frequency Heatmaps**, Kyoungjun Park, Yifan Yang, et al.  
+Submitted on 02/10/2025
+  [[Paper](https://arxiv.org/abs/2510.02274)]
+
 * **Scene Structure Based Neural Radio-Frequency Radiance Fields for Channel Knowledge Map Construction**, Kaicheng Liu, Wenjun Jiang, et al.  
 Published on 29/09/2025
   [[Paper](https://ieeexplore.ieee.org/abstract/document/11184507)]
@@ -12,6 +37,10 @@ Published on 29/09/2025
 * **6G Twin: Hybrid Gaussian Radio Fields for Channel Estimation and Non-Linear Precoder Design for Radio Access Networks**, Muhammad Ahmed Mohsin, Muhammad Umer, et al.  
 Submitted on 23/09/2025
   [[Paper](https://arxiv.org/abs/2509.18735)]
+
+* **Radio Frequency Ray Tracing via Stochastic Geometry**  
+Published on 20/09/2025
+  [[Paper](https://openreview.net/pdf?id=FSkseQQgPu)]
 
 * **Radio Propagation Modelling: To Differentiate or To Deep Learn, That Is The Question**, Stefanos Bakirtzis, Paul Almasan, et al.  
 Submitted on 15/09/2025
@@ -21,6 +50,10 @@ Submitted on 15/09/2025
 Submitted on 23/08/2025
   [[Paper](https://arxiv.org/abs/2508.16849)]
   [[Code](https://github.com/SunLab-UGA/RF-PGS)]
+
+* **Neural Gaussian Radio Fields for Channel Estimation**, Muhammad Umer, Muhammad Ahmed Mohsin, et al.  
+Submitted on 06/08/2025
+  [[Paper](https://arxiv.org/abs/2508.11668)]
 
 * **Frequency-Aware Neural Radio-Frequency Radiance Fields**, Xiaopeng Zhao, Zhenlin An, et al.  
 Published on 03/07/2025
